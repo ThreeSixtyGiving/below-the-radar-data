@@ -1,0 +1,120 @@
+# Appendix II: List of data publishers
+
+Unless otherwise stated, the data is used under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. For more information on the funders who publish data in the 360Giving Data Standard see http://data.threesixtygiving.org/. 
+
+- A B Charitable Trust
+- ARCADIA
+- Arts Council England
+- Barrow Cadbury Trust
+- BBC Children in Need
+- Birmingham City Council (Open Government Licence 3.0)
+- Cabinet Office (Open Government Licence 3.0)
+- Calouste Gulbenkian Foundation, UK Branch
+- Camden Giving
+- Cheshire Community Foundation
+- City Bridge Trust (Open Government Licence 3.0)
+- Cloudesley
+- Comic Relief
+- Community Foundation for Surrey
+- Community Foundation in Wales
+- Community Foundation serving Tyne & Wear and Northumberland
+- Coop Foundation
+- Co-operative Group (Creative Commons Attribution Share-Alike 4.0)
+- County Durham Community Foundation
+- Culham St Gabriel's Trust
+- Devon Community Foundation
+- Dundee City Council (Open Government Licence 3.0)
+- Esmée Fairbairn Foundation
+- Essex Community Foundation
+- Essex County Council (Open Government Licence 3.0)
+- Friends Provident Foundation
+- Garfield Weston Foundation
+- Gatsby Charitable Foundation
+- Glasgow City Council (Open Government Licence 3.0)
+- Greater London Authority (Open Government Licence 3.0)
+- Guy's and St Thomas' Charity
+- Heart of England Community Foundation
+- Hertfordshire Community Foundation
+- Indigo Trust CCO Joffe Charitable Trust
+- John Moores Foundation
+- Joseph Levy Foundation
+- Joseph Rowntree Charitable Trust
+- Joseph Rowntree Foundation
+- Joseph Rowntree Reform Trust
+- JRSST-CT
+- Kingston Voluntary Action
+- LandAid Charitable Trust
+- Lankelly Chase Foundation
+- Lloyds Bank Foundation for England and Wales
+- Lloyd's Register Foundation
+- London Borough of Barnet (Open Government Licence 3.0)
+- London Borough of Southwark (Open Government Licence 3.0)
+- London Catalyst
+- London Councils (Open Government Licence 3.0)
+- Macc
+- Manchester City Council (Open Government Licence 3.0)
+- Masonic Charitable Foundation
+- Millfield House Foundation
+- National Churches Trust
+- Nationwide Foundation
+- Nesta
+- Nuffield Foundation
+- One Manchester
+- Oxford City Council (Open Government Licence 3.0)
+- Oxfordshire Community Foundation (Creative Commons Attribution Share-Alike 4.0)
+- Paul Hamlyn Foundation
+- Pears Foundation
+- Power to Change
+- Quartet Community Foundation
+- Quixote Foundation
+- R S Macdonald Charitable Trust
+- Road Safety Trust
+- Samworth Foundation
+- Scottish Council for Voluntary Organisations
+- Seafarers UK
+- Sir George Martin Trust
+- Somerset Community Foundation
+- Spirit of 2012
+- Sport England (Open Government Licence 3.0)
+- Staples Trust
+- Stockport MBC (Open Government Licence 3.0)
+- Suffolk Community Foundation
+- Sussex Community Foundation
+- Tedworth Charitable Trust
+- The AIM Foundation
+- The Blagrave Trust
+- The Childhood Trust
+- The Clothworkers Foundation
+- The Corra Foundation, previously called Lloyds TSB Foundation for Scotland
+- The David & Elaine Potter Foundation
+- The Dulverton Trust
+- The Dunhill Medical Trust
+- The Fore
+- The Funding Network
+- The Henry Smith Charity
+- The Joseph Rank Trust
+- The National Lottery Community Fund (Open Government Licence 3.0)
+- The National Lottery Heritage Fund (Open Government Licence 3.0)
+- The Rayne Foundation
+- The Robertson Trust
+- The Triangle Trust 1949 Fund
+- the Trussell Trust
+- The Tudor Trust
+- The Wellcome Trust
+- Three Guineas Trust
+- Trafford Housing Trust Social Investment
+- Trafford Metropolitan Borough Council ((Open Government Licence 3.0))
+- True Colours Trust
+- Trust for London
+- Tuixen Foundation
+- Two Ridings Community Foundation
+- United St Saviour's Charity
+- Virgin Money Foundation
+- Walcot Foundation
+- Wates Family Enterprise Trust
+- Wates Foundation
+- Wiltshire Community Foundation (Creative Commons Attribution Share-Alike 4.0)
+- Wolfson Foundation
+- Woodward Charitable Trust
+- Youth Music
+- Zing (Open Data Commons Public Domain Dedication and Licence 1.0)
